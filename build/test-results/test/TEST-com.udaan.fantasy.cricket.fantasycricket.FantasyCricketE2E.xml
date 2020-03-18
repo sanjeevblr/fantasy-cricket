@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.udaan.fantasy.cricket.fantasycricket.FantasyCricketE2E" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-17T13:21:57" hostname="MacBook-Pro" time="0.075">
+  <properties/>
+  <testcase name="testE2E()" classname="com.udaan.fantasy.cricket.fantasycricket.FantasyCricketE2E" time="0.075"/>
+  <system-out><![CDATA[{1=Player(id=1, name=null, credit=5, batsMan=true, bowler=false, keeper=false), 2=Player(id=2, name=null, credit=5, batsMan=true, bowler=false, keeper=false), 3=Player(id=3, name=null, credit=5, batsMan=true, bowler=false, keeper=false), 4=Player(id=4, name=null, credit=5, batsMan=false, bowler=true, keeper=false), 5=Player(id=5, name=null, credit=5, batsMan=false, bowler=true, keeper=false), 6=Player(id=6, name=null, credit=5, batsMan=false, bowler=true, keeper=false), 7=Player(id=7, name=null, credit=5, batsMan=true, bowler=false, keeper=false), 8=Player(id=8, name=null, credit=5, batsMan=false, bowler=true, keeper=false), 9=Player(id=9, name=null, credit=5, batsMan=false, bowler=false, keeper=true), 10=Player(id=10, name=null, credit=5, batsMan=true, bowler=false, keeper=false), 11=Player(id=11, name=null, credit=5, batsMan=false, bowler=true, keeper=false), 12=Player(id=12, name=null, credit=5, batsMan=false, bowler=true, keeper=false)}]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
